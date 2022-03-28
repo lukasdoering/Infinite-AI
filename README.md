@@ -15,7 +15,7 @@
 
   <p align="center">
     An AI built to learn by it's self and adjust itself to your mood
-    ,currently in a very very early state, looking to release an open beta soon
+    ,currently in a very very early state, looking to release an open alpha soon
   </p>
 </div>
 
