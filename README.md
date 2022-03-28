@@ -7,11 +7,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lukasdoering/Infinity-AI">
+  <a href="https://github.com/lukasdoering/Infinite-AI">
     <img src="/LogoInfinite.png" alt="Logo" width="215" height="107">
   </a>
 
-<h3 align="center">Infinity AI</h3>
+<h3 align="center">Infinite AI</h3>
 
   <p align="center">
     An AI built to learn by it's self and adjust itself to your mood
@@ -56,7 +56,7 @@ I saw what's possible to achieve with AI, to show what it feels like and to show
 - [ ] Voice Output
 - [ ] First ealry Alpha Release
 
-See the [open issues](https://github.com/lukasdoering/Infinity-AI/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/lukasdoering/Infinite-AI/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
