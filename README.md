@@ -16,11 +16,6 @@
   <p align="center">
     An AI built to learn by it's self and adjust itself to your mood
     Currently in a very very early state, looking to release an open beta soon
-    
-    
-    <a href="https://github.com/lukasdoering/Infinity-AI/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/lukasdoering/Infinity-AI/issues">Request Feature</a>
   </p>
 </div>
 
