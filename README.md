@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lukasdoering/Infinity-AI">
-    <img src="/LogoInfinite.png" alt="Logo" width="430" height="214">
+    <img src="/LogoInfinite.png" alt="Logo" width="215" height="107">
   </a>
 
 <h3 align="center">Infinity AI</h3>
