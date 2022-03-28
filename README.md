@@ -36,14 +36,11 @@ I saw what's possible to achieve with AI, to show what it feels like and to show
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://python.org/)
+* [Lisp](https://common-lisp.net)
+* [Julia](https://julialang.org)
+* [Haskell](https://haskell.org)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
