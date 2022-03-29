@@ -15,7 +15,9 @@
 
   <p align="center">
     An AI built to learn by it's self and adjust itself to your mood
-    ,currently in a very very early state, looking to release an open alpha soon
+    ,currently in a very very early state, looking to release an open alpha soon.
+    
+    !!Ment to be run on a Raspberry PI 4 with at least 4gb of ram
   </p>
 </div>
 
@@ -36,7 +38,7 @@ I saw what's possible to achieve with AI, to show what it feels like and to show
 
 ### Built With
 
-* [Python](https://python.org/)
+* [Python](https://python.org/), for Speech Recognition
 * [Lisp](https://common-lisp.net)
 * [Julia](https://julialang.org)
 * [Haskell](https://haskell.org)
