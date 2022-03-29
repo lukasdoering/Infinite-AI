@@ -52,7 +52,7 @@ I saw what's possible to achieve with AI, to show what it feels like and to show
 ## Roadmap
 
 - [x] Speech Recognition
-- [x] Answers based on my own AI Model (Trained with a book library containing around 5000 books), answers can currently only be output in text
+- [x] Answers based on my own AI Model (Trained with a library of books), answers can currently only be output in text
 - [ ] Voice Output
 - [ ] First ealry Alpha Release
 
