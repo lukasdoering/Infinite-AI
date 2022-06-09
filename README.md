@@ -11,7 +11,7 @@
     <img src="/LogoInfinite.png" alt="Logo" width="215" height="107">
   </a>
 
-<h3 align="center">Infinite AI</h3>
+<h3 align="center">infinite Ai</h3>
 
   <p align="center">
     An AI built to learn by it's self and adjust itself to your mood
