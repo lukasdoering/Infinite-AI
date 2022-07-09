@@ -55,7 +55,7 @@ I saw what's possible to achieve with AI, to show what it feels like and to show
 
 - [x] Speech Recognition
 - [x] Answers based on my own AI Model, answers can currently only be output to text
-- [x] Voice Output
+- [ ] Voice Output
 - [ ] First ealry Alpha Release
 
 See the [open issues](https://github.com/lukasdoering/Infinite-AI/issues) for a full list of proposed features (and known issues).
