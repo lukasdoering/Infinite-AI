@@ -40,7 +40,7 @@ I saw what's possible to achieve with AI, to show what it feels like and to show
 
 * [Python](https://python.org/) (Speech recognition)
 * [Lisp](https://common-lisp.net) (Backend)
-* [Julia](https://julialang.org)
+* [Julia](https://julialang.org) (Model Training)
 * [Haskell](https://haskell.org) (Main)
 
 
