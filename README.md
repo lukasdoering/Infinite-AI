@@ -17,7 +17,7 @@
     An AI built to learn by it's self and adjust itself to your mood
     ,currently in a very very early state, looking to release an open alpha soon.
     
-    Ment to be run on a server with at least 128gb of ram, future version will have no requirement
+    Status: Closed Alpha
   </p>
 </div>
 
