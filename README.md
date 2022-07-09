@@ -38,10 +38,10 @@ I saw what's possible to achieve with AI, to show what it feels like and to show
 
 ### Built With
 
-* [Python](https://python.org/), for Speech Recognition
-* [Lisp](https://common-lisp.net)
+* [Python](https://python.org/) (Speech recognition)
+* [Lisp](https://common-lisp.net) (Backend)
 * [Julia](https://julialang.org)
-* [Haskell](https://haskell.org)
+* [Haskell](https://haskell.org) (Main)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
